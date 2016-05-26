@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sliding Menu like Facebook</string>
+    <string name="main_text">Make a sliding menu like Facebook yourself</string>
+    <string-array name="menu_items">
+        <item >Main</item>
+        <item >ListView</item>
+        <item >TextView</item>
+        <item >Dummy Fragment</item>
+    </string-array>
+</resources>
